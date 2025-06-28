@@ -1,3 +1,7 @@
+./build
+./plicp_slam/plicp_slam.egg-info
+.vscode
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
